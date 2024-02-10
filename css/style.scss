@@ -1,0 +1,26 @@
+body { background: rgb(242, 243, 241) !important; }
+
+
+.hero {
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../images/hero-img-fhd.jpg");
+    background-size: cover;
+    background-position: center;
+}
+    
+.h3 {
+    display: flex;
+    align-self: center;
+    position: absolute;
+    color: black;
+}
+
+.card {
+    margin: 5px;
+img{
+    height: 250px;
+}    
+}
